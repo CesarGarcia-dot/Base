@@ -1,0 +1,15 @@
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\bin\Debug\netcoreapp2.1\Citricosoft.deps.json
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\bin\Debug\netcoreapp2.1\Citricosoft.runtimeconfig.json
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\bin\Debug\netcoreapp2.1\Citricosoft.runtimeconfig.dev.json
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\bin\Debug\netcoreapp2.1\Citricosoft.dll
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\bin\Debug\netcoreapp2.1\Citricosoft.pdb
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.RazorAssemblyInfo.cache
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.RazorAssemblyInfo.cs
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.RazorTargetAssemblyInfo.cache
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.dll
+C:\Users\Cesar\Desktop\Sistemas\Citricosoft\obj\Debug\netcoreapp2.1\Citricosoft.pdb
