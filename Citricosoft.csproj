@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-Citricosoft-7C1C46A5-AA6B-4275-958F-D1D8841A6AEA</UserSecretsId>
+    <UserSecretsId></UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
